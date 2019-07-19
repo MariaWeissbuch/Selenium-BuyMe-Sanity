@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+    <BrowserType>chrome</BrowserType>
+    <URL>https://buyme.co.il/</URL>
+    <FirstName>Maria</FirstName>
+    <Email>f2s18@hotmail.com</Email>
+    <Password>Mw271282</Password>
+</config>
